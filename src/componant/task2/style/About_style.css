@@ -1,0 +1,35 @@
+.about_page {
+    background-color: #1c242f;
+}
+
+.about_page h1 {
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.information_about {
+    width: 94%;
+    font-size: 25px;
+    padding: 10px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 5px solid #FC8571;
+    border-radius: 10px;
+    background-color: #0F1630;
+}
+
+.section_tow_about {
+    padding-top: 50px;
+}
+
+.imges img {
+    width: 100%;
+    margin: 5px;
+    height: 30vh;
+}
+
+.information_img img {
+    width: 80%;
+    float: right;
+}

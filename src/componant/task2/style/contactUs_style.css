@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    font-family: 'Josefin Sans', sans-serif !important;
+}
+
+.ContactUs {
+    background-color: #122a41;
+    color: white;
+    padding-bottom: 40px;
+}
+
+.componant_ContactUs {
+    background-color: #171a1c;
+}
+
+.ContactUs h2 {
+    text-align: center;
+    padding: 70px;
+    font-size: 45px;
+}
+
+label {
+    display: block !important;
+    font-size: 20px;
+    color: white;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+    width: 75%;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    display: block;
+    margin: 10px;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 5px 40px;
+    border-radius: 0px 40px;
+}
+
+iframe {
+    width: 90%;
+    height: 50vh;
+    float: right;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    width: 75%;
+}
